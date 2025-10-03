@@ -88,7 +88,7 @@ export const Navbar = () => {
           <TranslateWrapper />
         </div>
 
-          {/* Mobile Menu Button */}
+          {/* Mobile Button */}
           <div className="md:hidden">
             <button onClick={handleMenuToggle} className="text-gray-700">
               {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
