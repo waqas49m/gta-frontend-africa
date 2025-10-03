@@ -45,7 +45,7 @@ export const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-2lg font-bold text-primary">
-              Campaign to Raising Africa
+              Raising Africa
             </span>
             {/* <img src="/give.png" alt="Campaign to Raising Africa" className="w-16 h-16" /> */}
           </Link>
